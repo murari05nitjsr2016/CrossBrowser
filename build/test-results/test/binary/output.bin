@@ -1,0 +1,7 @@
+P[INFO ] 2021-07-12 04:43:23.719 [Test worker] Log - clicking on sign_in button
+H[INFO ] 2021-07-12 04:43:50.989 [Test worker] Log - entering user name
+G[INFO ] 2021-07-12 04:43:57.863 [Test worker] Log - entering password
+Y[INFO ] 2021-07-12 04:44:00.631 [Test worker] Log - clicking to Enter into application 
+I[INFO ] 2021-07-12 04:44:38.947 [Test worker] Log - clicking to profile
+K[INFO ] 2021-07-12 04:44:43.187 [Test worker] Log - clicking for sign_out
+Login Successfull..!

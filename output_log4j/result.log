@@ -1,0 +1,24 @@
+[INFO ] 2021-07-14 05:22:06.599 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:22:06.788 [main] Log - browserNameis launching
+[INFO ] 2021-07-14 05:23:54.719 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:23:54.719 [main] Log - browserNameis launching
+[INFO ] 2021-07-14 05:25:21.888 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:25:21.888 [main] Log - browserNameis launching
+[INFO ] 2021-07-14 05:36:03.936 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:36:04.090 [main] Log - browserName is launching
+[INFO ] 2021-07-14 05:38:59.606 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-14 05:40:46.764 [main] Log - Launched the web application.
+[INFO ] 2021-07-14 05:40:51.873 [main] Log - Browser is closed
+[INFO ] 2021-07-14 05:41:12.186 [main] Log - Test is ended
+[INFO ] 2021-07-14 05:41:15.194 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:41:15.195 [main] Log - browserName is launching
+[INFO ] 2021-07-14 05:42:55.007 [main] Log - Test is starting
+[INFO ] 2021-07-14 05:42:55.007 [main] Log - browserName is launching
+[INFO ] 2021-07-14 20:02:51.550 [main] Log - Test is starting
+[INFO ] 2021-07-14 20:02:51.760 [main] Log - browserName is launching
+[INFO ] 2021-07-14 20:05:16.309 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-14 20:05:51.057 [main] Log - Launched the web application.
+[INFO ] 2021-07-14 20:05:58.336 [main] Log - Test is starting
+[INFO ] 2021-07-14 20:05:58.336 [main] Log - browserName is launching
+[INFO ] 2021-07-14 20:07:28.551 [main] Log - Test is starting
+[INFO ] 2021-07-14 20:07:28.552 [main] Log - browserName is launching

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.Log4j_And_Reports_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-12T11:43:22" hostname="DESKTOP-EC2GNO7" time="85.623">
+  <properties/>
+  <testcase name="login" classname="com.bridgelabz.Log4j_And_Reports_Test" time="85.623"/>
+  <system-out><![CDATA[[INFO ] 2021-07-12 04:43:23.719 [Test worker] Log - clicking on sign_in button
+[INFO ] 2021-07-12 04:43:50.989 [Test worker] Log - entering user name
+[INFO ] 2021-07-12 04:43:57.863 [Test worker] Log - entering password
+[INFO ] 2021-07-12 04:44:00.631 [Test worker] Log - clicking to Enter into application 
+[INFO ] 2021-07-12 04:44:38.947 [Test worker] Log - clicking to profile
+[INFO ] 2021-07-12 04:44:43.187 [Test worker] Log - clicking for sign_out
+Login Successfull..!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

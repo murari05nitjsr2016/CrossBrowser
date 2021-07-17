@@ -1,0 +1,24 @@
+[INFO ] 2021-07-12 02:24:11.346 [Test worker] Log - Test is starting
+[INFO ] 2021-07-12 02:24:11.564 [Test worker] Log - chrome is launching
+[INFO ] 2021-07-12 02:25:20.990 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-12 02:25:40.694 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-12 02:25:47.358 [Test worker] Log - clicking on sign_in button
+[INFO ] 2021-07-12 02:26:26.519 [Test worker] Log - entering user name
+[INFO ] 2021-07-12 02:26:41.318 [Test worker] Log - entering password
+[INFO ] 2021-07-12 02:26:44.914 [Test worker] Log - clicking to Enter into application 
+[INFO ] 2021-07-12 02:29:10.326 [Test worker] Log - clicking to profile
+[INFO ] 2021-07-12 02:29:14.606 [Test worker] Log - clicking for sign_out
+[INFO ] 2021-07-12 02:29:19.823 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-12 02:29:22.290 [Test worker] Log - Test is ended
+[INFO ] 2021-07-12 04:42:36.054 [Test worker] Log - Test is starting
+[INFO ] 2021-07-12 04:42:36.105 [Test worker] Log - chrome is launching
+[INFO ] 2021-07-12 04:43:07.216 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-12 04:43:17.804 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-12 04:43:23.719 [Test worker] Log - clicking on sign_in button
+[INFO ] 2021-07-12 04:43:50.989 [Test worker] Log - entering user name
+[INFO ] 2021-07-12 04:43:57.863 [Test worker] Log - entering password
+[INFO ] 2021-07-12 04:44:00.631 [Test worker] Log - clicking to Enter into application 
+[INFO ] 2021-07-12 04:44:38.947 [Test worker] Log - clicking to profile
+[INFO ] 2021-07-12 04:44:43.187 [Test worker] Log - clicking for sign_out
+[INFO ] 2021-07-12 04:44:50.358 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-12 04:45:03.414 [Test worker] Log - Test is ended
